@@ -1,6 +1,7 @@
 Syntecxhub_OnlineShoppingCart
 
 Project Description
+
 The Online Shopping Cart System allows users to manage items in a shopping cart through a menu-driven console application.It supports adding items, viewing cart details, and calculating the total price while demonstrating the use of Java collections.
 
 Features
