@@ -28,6 +28,8 @@ The program displays a menu with options to add items, view the cart, calculate 
 
 Enter your choice: 1
 Enter item name: Bag
+
 Enter quantity: 1
 Item added to cart.
+
 Total Price: Rs.500
