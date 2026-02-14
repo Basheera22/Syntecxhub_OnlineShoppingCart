@@ -20,7 +20,9 @@ How to Run
 
 Sample Output
 The program displays a menu with options to add items, view the cart, calculate the total price, and exit. Based on the user’s selection, the corresponding output is displayed on the console.
+
 --- Online Shopping Cart ---
+
 1. Add Item
 2. View Cart
 3. Calculate Total Price
